@@ -10,7 +10,7 @@ Contact: panboonyuen.kao@gmail.com
 
 ## Short links for lecture slide and exercises:
 
-Morning Survey: https://forms.gle/NHzWFi2W7QWi9JnM7
+Morning Survey: https://forms.gle/eiVVaTfzwFZFgTLk6
 
 Lecture Slides: [![Slides](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/view-slides-darkgreen.svg)](https://github.com/kaopanboonyuen/GISTDA2022/tree/main/lecture_slides) https://github.com/kaopanboonyuen/GISTDA2022/tree/main/lecture_slides
 
