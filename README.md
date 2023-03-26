@@ -14,7 +14,7 @@ Morning Survey: https://forms.gle/NHzWFi2W7QWi9JnM7
 
 Lecture Slides: [![Slides](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/view-slides-darkgreen.svg)](https://github.com/kaopanboonyuen/GISTDA2022/tree/main/lecture_slides) https://github.com/kaopanboonyuen/GISTDA2022/tree/main/lecture_slides
 
-## PART1: A Practical Introduction to Web Scraping and Data Visualization
+## DAY1: A Practical Introduction to Web Scraping and Data Visualization
 ### Module 0: Visualization 
 
 Google Data Studio: https://datastudio.google.com/
@@ -22,7 +22,7 @@ Google Data Studio: https://datastudio.google.com/
 1. Disaster Tweets (Data Set): https://github.com/kaopanboonyuen/GISTDA2022/raw/main/dataset/visualize/disaster_text.csv
 2. Med Resource (Data Set): https://github.com/kaopanboonyuen/GISTDA2022/raw/main/dataset/visualize/med_resources_text.csv
 
-## PART2: Distributed Machine Learning Model Training with Spark (PySpark) 
+## DAY2: Distributed Machine Learning Model Training with Spark (PySpark) 
 ### Module 1: PySpark
 
 0. PySpark Transform and Action: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2022/blob/main/code/0_Pyspark_Transform_Action.ipynb)
