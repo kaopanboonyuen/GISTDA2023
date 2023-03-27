@@ -17,7 +17,7 @@ Lecture Slides: [![Slides](https://raw.githubusercontent.com/kaopanboonyuen/2110
 ## DAY 1: A PRACTICAL INTRODUCTION TO WEB SCRAPING AND DATA VISUALIZATION
 ### Module 0: Visualization 
 
-Google Data Studio: https://datastudio.google.com/
+Google Data Studio (Looker Studio): https://lookerstudio.google.com/
 
 1. Disaster Tweets (Data Set): https://github.com/kaopanboonyuen/GISTDA2023/raw/main/dataset/visualize/disaster_text.csv
 2. Med Resource (Data Set): https://github.com/kaopanboonyuen/GISTDA2023/raw/main/dataset/visualize/med_resources_text.csv
