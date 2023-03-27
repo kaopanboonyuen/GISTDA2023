@@ -6,7 +6,7 @@ Lecturer: Teerapong Panboonyuen (Kao), Ph.D.
 
 Contact: panboonyuen.kao@gmail.com
 
-![alt text](https://github.com/kaopanboonyuen/GISTDA2023/blob/main/files/pyspark_logo_v2.png)
+![alt text](https://github.com/kaopanboonyuen/GISTDA2023/raw/main/img/gistda_days.png)
 
 ## Short links for lecture slide and exercises:
 
