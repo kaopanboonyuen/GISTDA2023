@@ -17,8 +17,8 @@ Lecture Slides: [![Slides](https://raw.githubusercontent.com/kaopanboonyuen/2110
 ## DAY 1: A PRACTICAL INTRODUCTION TO WEB SCRAPING AND DATA VISUALIZATION
 ### Module 0: Basic Python and Pandas 
 
-- Python Recap: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/S2/Week1/week1_1_colab_tutorial_07062022.ipynb)
-- Pandas: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week1_numpy_pandas/Pandas.ipynb)
+- Python Recap: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/BasicPython.ipynb)
+- Pandas: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/BasicPandas.ipynb)
 
 ### Module 1: Google Data Studio (Looker Studio): https://lookerstudio.google.com/
 
