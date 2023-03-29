@@ -27,8 +27,8 @@ Lecture Slides: [![Slides](https://raw.githubusercontent.com/kaopanboonyuen/2110
 
 ### Module 2: Web Scraping and Twitter Scraping
 
-- Web Scraping: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/0_Pyspark_Transform_Action.ipynb)
-- Twitter Scraping: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/0_Pyspark_Transform_Action.ipynb)
+- Web Scraping: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/BasicPandas.ipynb)
+- Twitter Scraping: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/02_TwitterScraping.ipynb)
 
 
 ## DAY 2: DISTRIBUTED MACHINE LEARNING MODEL TRAINING WITH SPARK (PYSPARK)
