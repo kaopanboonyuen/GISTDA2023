@@ -23,7 +23,7 @@ Lecture Slides: [![Slides](https://raw.githubusercontent.com/kaopanboonyuen/2110
 ### Module 1: Google Data Studio (Looker Studio): https://lookerstudio.google.com/
 
 - Disaster Tweets (Data Set): https://github.com/kaopanboonyuen/GISTDA2023/raw/main/dataset/visualize/disaster_text.csv
-- Med Resource (Data Set): https://github.com/kaopanboonyuen/GISTDA2023/raw/main/dataset/visualize/med_resources_text.csv
+- Med Resource (Data Set): https://github.com/kaopanboonyuen/GISTDA2023/raw/main/dataset/visualize/med_resources_data.csv
 
 ### Module 2: Web Scraping and Twitter Scraping
 
