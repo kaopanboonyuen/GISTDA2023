@@ -15,15 +15,24 @@ Morning Survey: https://forms.gle/eiVVaTfzwFZFgTLk6
 Lecture Slides: [![Slides](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/view-slides-darkgreen.svg)](https://github.com/kaopanboonyuen/GISTDA2023/tree/main/lecture_slides) https://github.com/kaopanboonyuen/GISTDA2023/tree/main/lecture_slides
 
 ## DAY 1: A PRACTICAL INTRODUCTION TO WEB SCRAPING AND DATA VISUALIZATION
-### Module 0: Visualization 
+### Module 0: Basic Python and Pandas 
 
-Google Data Studio (Looker Studio): https://lookerstudio.google.com/
+- Python Recap: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/S2/Week1/week1_1_colab_tutorial_07062022.ipynb)
+- Pandas: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week1_numpy_pandas/Pandas.ipynb)
 
-1. Disaster Tweets (Data Set): https://github.com/kaopanboonyuen/GISTDA2023/raw/main/dataset/visualize/disaster_text.csv
-2. Med Resource (Data Set): https://github.com/kaopanboonyuen/GISTDA2023/raw/main/dataset/visualize/med_resources_text.csv
+### Module 1: Google Data Studio (Looker Studio): https://lookerstudio.google.com/
+
+- Disaster Tweets (Data Set): https://github.com/kaopanboonyuen/GISTDA2023/raw/main/dataset/visualize/disaster_text.csv
+- Med Resource (Data Set): https://github.com/kaopanboonyuen/GISTDA2023/raw/main/dataset/visualize/med_resources_text.csv
+
+### Module 2: Web Scraping and Twitter Scraping
+
+- Web Scraping: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/0_Pyspark_Transform_Action.ipynb)
+- Twitter Scraping: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/0_Pyspark_Transform_Action.ipynb)
+
 
 ## DAY 2: DISTRIBUTED MACHINE LEARNING MODEL TRAINING WITH SPARK (PYSPARK)
-### Module 1: PySpark
+### Module 3: PySpark
 
 0. PySpark Transform and Action: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/0_Pyspark_Transform_Action.ipynb)
 1. Basic PySpark: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/1_Basic_Spark.ipynb)
@@ -33,11 +42,11 @@ Google Data Studio (Looker Studio): https://lookerstudio.google.com/
 5. Classification: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/5_Pyspark_Classification_Pipeline_Churn.ipynb)
 6. Clustering: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/6_Pyspark_Clustering_Pipeline_Cdr.ipynb)
 
-### Module 2: PySpark (Assignment)
+### Module 4: PySpark (Assignment)
 1. Titatic DataSet: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/assignment/1_Pyspark_Titanic_toStudent.ipynb)
 2. Iris DataSet (Classification): [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/assignment/2_DecisionTree_Pipeline_Iris_toStudent.ipynb)
 
-### Module 3: Deep Learning (Convolution Neural Networks)
+### Module 5: Deep Learning (Convolution Neural Networks)
 Basic Convolution Neural Networks: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/deeplearning/CV1_Image_classification_(Basic).ipynb)
 
 ** Lecture Slide (from https://cs231n.stanford.edu/): http://cs231n.stanford.edu/slides/2021/lecture_5.pdf
