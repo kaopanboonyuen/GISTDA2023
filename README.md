@@ -4,7 +4,7 @@
 
 Lecturer: Teerapong Panboonyuen (Kao), Ph.D.
 
-Contact: panboonyuen.kao@gmail.com
+Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
 ![alt text](https://github.com/kaopanboonyuen/GISTDA2023/raw/main/img/gistda_days.png)
 
