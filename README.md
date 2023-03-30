@@ -32,6 +32,23 @@ Lecture Slides: [![Slides](https://raw.githubusercontent.com/kaopanboonyuen/2110
 - Web Scraping: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/01_WebScraping_BS4.ipynb)
 - Twitter Scraping: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/02_TwitterScraping.ipynb)
 
+### Module 3: PySpark
+
+0. PySpark Transform and Action: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/0_Pyspark_Transform_Action.ipynb)
+1. Basic PySpark: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/1_Basic_Spark.ipynb)
+2. Basic RDD: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/2_Pyspark_Basic_RDD.ipynb)
+3. Spark SQL: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/3_SparkSQL.ipynb)
+4. Basic DataFrame: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/4_Pyspark_Basic_DataFrame.ipynb)
+5. Classification: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/5_Pyspark_Classification_Pipeline_Churn.ipynb)
+6. Clustering: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/6_Pyspark_Clustering_Pipeline_Cdr.ipynb)
+
+### Module 4: PySpark (Assignment)
+1. Titatic DataSet: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/assignment/1_Pyspark_Titanic_toStudent.ipynb)
+2. Iris DataSet (Classification): [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/assignment/2_DecisionTree_Pipeline_Iris_toStudent.ipynb)
+
+### Module 5: Deep Learning (Convolution Neural Networks)
+Basic Convolution Neural Networks: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/deeplearning/CV1_Image_classification_(Basic).ipynb)
+
 ### Reference:
 
 1. https://www.kaggle.com/code
