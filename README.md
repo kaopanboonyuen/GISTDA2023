@@ -16,10 +16,10 @@ Lecture Slides: [![Slides](https://raw.githubusercontent.com/kaopanboonyuen/2110
 
 - TensorFlow-Beginner: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/deeplearning/DAY1/beginner.ipynb)
 
-- **(AI-PROJECT)** Mango🥭 Leaf🍃🍂 Disease Dataset: source code will be upload soon
+- **(AI-PROJECT)** Mango🥭 Leaf🍃🍂 Disease Dataset: **source code will be upload soon**
 ## DAY 2: A PRACTICAL INTRODUCTION TO OBJECT DETECTION
 
-- **(AI-PROJECT)** ✈️ Airbus Aircrafts Detection Sample Datase: source code will be upload soon
+- **(AI-PROJECT)** ✈️ Airbus Aircrafts Detection Sample Datase: **source code will be upload soon**
 ### Reference:
 
 1. https://www.kaggle.com/code
