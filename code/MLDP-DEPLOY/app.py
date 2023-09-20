@@ -46,7 +46,7 @@ with st.spinner('Model is being loaded..'):
     model=load_model()
 
 st.write("""
-         # โครงการตรวจหาโรคมะม่วงพร้อมแนวทางแก้ไขด้วย AI (มธ.)
+         # :mango: โครงการตรวจหาโรคมะม่วงพร้อมแนวทางแก้ไขด้วย AI (มธ.)
          """
          )
 
