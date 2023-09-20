@@ -7,7 +7,6 @@ import numpy as np
 import warnings
 warnings.filterwarnings("ignore")
 
-
 st.set_page_config(
     page_title="Mango Leaf Disease Detection",
     page_icon = ":mango:",
@@ -27,24 +26,17 @@ def prediction_cls(prediction):
             
             return key
 
-
 with st.sidebar:
         st.image('mg.png')
         st.title("Mangifera Healthika")
         st.subheader("Accurate detection of diseases present in the mango leaves. This helps an user to easily detect the disease and identify it's cause.")
-
-             
-        
+ 
 def prediction_cls(prediction):
     for key, clss in class_names.items():
         if np.argmax(prediction)==clss:
             
             return key
         
-       
-
-    
-
 st.set_option('deprecation.showfileUploaderEncoding', False)
 @st.cache(allow_output_mutation=True)
 def load_model():
@@ -52,8 +44,6 @@ def load_model():
     return model
 with st.spinner('Model is being loaded..'):
     model=load_model()
-
-    
 
 st.write("""
          # Mango Disease Detection with Remedy Suggestion
@@ -68,7 +58,6 @@ def import_and_predict(image_data, model):
         img_reshape = img[np.newaxis,...]
         prediction = model.predict(img_reshape)
         return prediction
-
         
 if file is None:
     st.text("Please upload an image file")
@@ -110,7 +99,6 @@ else:
         st.sidebar.warning(string)
         st.markdown("## Remedy")
         st.info("Use yellow sticky traps to catch the flies. Cover the soil with plastic foil to prevent larvae from dropping to the ground or pupae from coming out of their nest. Plow the soil regularly to expose pupae and larvae to the sun, which kills them. Collect and burn infested tree material during the season.")
-
 
     elif class_names[np.argmax(predictions)] == 'Powdery Mildew':
         st.sidebar.warning(string)
