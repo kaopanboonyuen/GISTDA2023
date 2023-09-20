@@ -19,7 +19,7 @@ Lecture Slides: [![Slides](https://raw.githubusercontent.com/kaopanboonyuen/2110
 - **(AI-PROJECT)** Mango🥭 Leaf🍃🍂 Disease Dataset: source code will be upload soon
 ## DAY 2: A PRACTICAL INTRODUCTION TO OBJECT DETECTION
 
-- **(AI-PROJECT)** Airbus Aircrafts Detection Sample Datase: source code will be upload soon
+- **(AI-PROJECT)** :airplain: Airbus Aircrafts Detection Sample Datase: source code will be upload soon
 ### Reference:
 
 1. https://www.kaggle.com/code
