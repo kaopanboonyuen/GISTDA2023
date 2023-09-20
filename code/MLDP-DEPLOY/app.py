@@ -50,10 +50,6 @@ st.write("""
          """
          )
 
-st.write("""
-         ## Revised by Kao
-         """
-         )
 file = st.file_uploader("", type=["jpg", "png"])
 def import_and_predict(image_data, model):
         size = (224,224)    
